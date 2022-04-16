@@ -1,0 +1,17 @@
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:inherit;
+    
+}
+
+.padding{
+    padding-left: 231px;
+}
+
+footer{
+    font-family: monospace;
+}
+
+header{
+    font-style: initial;
+}
